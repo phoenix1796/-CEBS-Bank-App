@@ -1,0 +1,19 @@
+-> open account
+-> allow transaction like withdraw
+-> Deposit
+-> View Statement
+-> Exit
+
+
+
+Account
+
+Customer
+
+Bank
+  Account Open
+
+Transaction
+
+
+Bank 1-M Customer 1-1 Account 1-M Transaction
